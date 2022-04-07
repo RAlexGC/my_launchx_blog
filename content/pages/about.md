@@ -2,7 +2,7 @@
 title: 'Acerca de mí'
 menu:
   main:
-    name: "Acerda de mí"
+    name: "Acerca de mí"
 ---
 
 ## ¿Quién soy?
