@@ -11,7 +11,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas en esa aventura son:
 
-- Aprender sobre todo lo que conlleva el desarrollo web, desde el front hasta el backend.
+- Aprender cómo se complementa el frontend con el backend.
 - Desarrollar y desempolvar mis habilidades en la programación.
 - Desarrollar proyectos propios en los que pueda involucrar toda mi formación académica.
 - Incrementar mis probabilidades de conseguir un empleo en la industria tech.
