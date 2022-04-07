@@ -1,21 +1,15 @@
 ---
-title: 'About me'
+title: 'Acerca de mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerda de mí"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Ingenierio Biomédico y Doctor en Nanociencias por el IPN 🤓
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Me encanta la tecnología** Desde muy joven he tenido un gran interés por la tecnología y las ciencias de la computación, es por eso que al presentarse esta oportunidad de formarme como developer no dudé en tomarla, para seguir desarrollando mi carrera en este sentido..
 
