@@ -1,8 +1,8 @@
 ---
-title: 'Acerca de mí'
+title: 'Acerca de'
 menu:
   main:
-    name: "Acerca de mí"
+    name: "Acerca de"
 ---
 
 ## ¿Quién soy?
